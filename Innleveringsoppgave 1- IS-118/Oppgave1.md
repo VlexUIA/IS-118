@@ -15,7 +15,38 @@ Hver deltaker oppretter sin egen branch, legger inn sitt bidrag her, og lager en
 ## Del 2 – Design av det første møtet
 **Ansvarlige:** Lars og Marcelli  
 
-*(Her skal Lars og Marcelli skrive sin del.)*  
+
+Design av "det første møtet": Detaljerte forslag til agenda og aktiviteter for
+prosjektets oppstartsmøte. Dette skal fremme felles forståelse av mål og
+arbeidsfordeling, og inkludere viktigheten av "pseudoarbeid" for relasjonsbygging.
+
+
+Velkommen og Introduksjon
+Ved å begynne agenda’en med en introduksjon skaper det trygghet.
+Presentasjonsrunde av alle sammen
+Alle medarbeidere blir mer kjent med hverandre, det kommer til å gjøre folk mer trygge, mer kjent med hverandre og kommer til å få folk til å ikke være så stresset men også 
+få folk til å “senke skuldrene”. 
+Prosjektmål, hva alle forventer, kriterier og felles forståelse
+Alle medarbeidere vil skjønne hvilke forventninger sjefene har til di, hva som må gjøres
+og hvordan det skal gjøres.
+Roller og forventninger fra individuelle arbeidere
+Her vil alle finne ut hvem gjør hva, forklare hvilke forventninger sjefene har til di, hva di 
+trenger fra hverandre. 
+Visjoner/mål, hvordan alt kommer til å se ut om 1 år og hva sjefen forventer.
+Forklarer forventinger, hvordan de vil at at det skal se ut om X tid, forklare hvilke planer
+di har. 
+Workshop: Ha en morsom oppgave med hverandre sånn at medarbeidere kan bli kjent 
+med hverandre.
+Medarbeidere blir kjent med hverandre, snakker sammen og ser hvordan alle jobber i
+gruppe. 
+Snakke om neste steg, planlegge neste møte, planlegge når de skal begynne å jobbe.
+Avtale neste møte hvor de snakker videre.
+Det første møte i prosjektet er det viktig å ha en tydelig agenda og tenke gjennom grunnlaget for et godt prosjekt samarbeid. Møte måter man og fordeler oppgaver og introduksjon fra prosjektleder. 
+Møtet bør innledes med en tydelig velkomst fra prosjektlederen, der visjon, mål og tiden prosjektet har presenteres. Dette handler ikke bare om å gi informasjon. Når alle har forstått prosjektets betydning, skaper det gode følelser og en opplevelse av å bidra til noe større enn seg selv.
+Etter introduksjonen er det viktig at medlemmene i prosjektet blir mer komfortable med hverandre. Dette kan gjøres ved små prat, introduksjoner eller ligningen. Medlemmene kan få mye ut av og også vite bakgrunnen og kompetansesettet til de ulike prosjektmedlemmene. Det kan også bli gjort lekere som navnelek eller snakk om ting uten som prosjektet. Disse øvelsene blir ofte kalt for pseudoarbeid. Her er det også ha en forståelse for hva prosjektets mål og gruppens forventninger er. Medlemmene må også bestemme rollene til medlemmene i gruppen. 
+En like viktig del av oppstarten er avklaring av roller og ansvar. Her bør prosjektlederen presentere de fire grunnleggende prosjektrollene – produksjon, administrasjon, integrasjon og entreprenørskap – og la deltakerne selv plassere sine bidrag inn i denne rammen. Dette gir tydelighet rundt ansvar og myndighet, samtidig som det blir synlig hvordan de ulike kompetansene utfyller hverandre.
+Mot slutten av møtet bør teamet sammen diskutere hvordan de ønsker å arbeide. Det kan handle om valg av kommunikasjonskanaler, hyppighet på møter og hvordan man sikrer at alle stemmer blir hørt. Enighet om noen enkle spilleregler skaper forutsigbarhet og gjør det lettere å håndtere uenigheter senere. Møtet kan avsluttes med en kort oppsummering og en såkalt “commitment-runde”, hvor hver deltaker sier én ting de forplikter seg til å bidra med fremover.
+
 
 ---
 
