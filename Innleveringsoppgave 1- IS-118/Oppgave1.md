@@ -6,7 +6,6 @@ Hver deltaker oppretter sin egen branch, legger inn sitt bidrag her, og lager en
 ---
 
 ## Del 1 – Strategi for rekruttering og sammensetting
-**Ansvarlig:** Steinar  
 
 Bemanning av en prosjektgruppe er en egen prosess med flere momenter. Det er en balansegang for å vektlegge riktig hvor stort behovet for ulike teamroller er for å skape et mangfold i gruppen, og i hvor stor grad deltakerne har likheter i deres bakgrunn. Slike momenter er viktig å ta med seg da de skal ikke bare jobbe med hverandre, de skal kommunisere med hverandre, bruke tid i sammen og de må klare å være i sammen i perioder med mye stress (Jacobsen, 2016, s. 32). Ved å være bevisst på dette allerede tidlig i planleggingen kan en unngå å starte på feil fot, da det er vanskeligere å rette opp i en prosjektgruppe etter skaden allerede er gjort.
 Vi ser også at det skal være en gruppe på 7-8 personer. Grupper på denne størrelsen vil ofte møte andre problemer enn en gruppe på 4-6 personer. Nemlig at det ikke er like lett å skape direkte ansikt til ansikt relasjoner (Jacobsen, 2016, s. 36). På grunn av dette blir det ofte vanskeligere å danne relasjoner i gruppen på denne måten, men det betyr ikke at en gruppe er dømt til å mislykkes allerede på grunn av mengden medlemmer. Det krever heller at prosjektleder er bevisst på dette punktet og planlegger for hvordan å lettere å overkomme denne byrden. En metode for å regulere situasjonen på forhånd er det tidligere nevnte punktet om sosial og demografisk likhet. Dette er noe som raskt skaper tillit til andre da vi stoler raskere på folk som er lik som oss, enn ulike. (Jacobsen, 2016, s. 34-35). Derfor blir det hensiktsmessig å vektlegge dette punktet tidlig.
@@ -21,34 +20,39 @@ I grupper der det er en mangel på balanse i form av teamroller regnes det med a
 ---
 
 ## Del 2 – Design av det første møtet
-**Ansvarlige:** Lars og Marcelli  
-
 
 Design av "det første møtet": Detaljerte forslag til agenda og aktiviteter for
 prosjektets oppstartsmøte. Dette skal fremme felles forståelse av mål og
 arbeidsfordeling, og inkludere viktigheten av "pseudoarbeid" for relasjonsbygging.
 
 
-Velkommen og Introduksjon
+**Velkommen og Introduksjon**
 Ved å begynne agenda’en med en introduksjon skaper det trygghet.
-Presentasjonsrunde av alle sammen
+
+**Presentasjonsrunde av alle sammen**
 Alle medarbeidere blir mer kjent med hverandre, det kommer til å gjøre folk mer trygge, mer kjent med hverandre og kommer til å få folk til å ikke være så stresset men også 
 få folk til å “senke skuldrene”. 
-Prosjektmål, hva alle forventer, kriterier og felles forståelse
+
+**Prosjektmål, hva alle forventer, kriterier og felles forståelse**
 Alle medarbeidere vil skjønne hvilke forventninger sjefene har til di, hva som må gjøres
 og hvordan det skal gjøres.
-Roller og forventninger fra individuelle arbeidere
+
+**Roller og forventninger fra individuelle arbeidere**
 Her vil alle finne ut hvem gjør hva, forklare hvilke forventninger sjefene har til di, hva di 
-trenger fra hverandre. 
-Visjoner/mål, hvordan alt kommer til å se ut om 1 år og hva sjefen forventer.
+trenger fra hverandre.
+
+**Visjoner/mål, hvordan alt kommer til å se ut om 1 år og hva sjefen forventer.**
 Forklarer forventinger, hvordan de vil at at det skal se ut om X tid, forklare hvilke planer
 di har. 
-Workshop: Ha en morsom oppgave med hverandre sånn at medarbeidere kan bli kjent 
-med hverandre.
+
+**Workshop: Ha en morsom oppgave med hverandre sånn at medarbeidere kan bli kjent 
+med hverandre.**
 Medarbeidere blir kjent med hverandre, snakker sammen og ser hvordan alle jobber i
 gruppe. 
-Snakke om neste steg, planlegge neste møte, planlegge når de skal begynne å jobbe.
+
+**Snakke om neste steg, planlegge neste møte, planlegge når de skal begynne å jobbe.**
 Avtale neste møte hvor de snakker videre.
+
 Det første møte i prosjektet er det viktig å ha en tydelig agenda og tenke gjennom grunnlaget for et godt prosjekt samarbeid. Møte måter man og fordeler oppgaver og introduksjon fra prosjektleder. 
 
 Møtet bør innledes med en tydelig velkomst fra prosjektlederen, der visjon, mål og tiden prosjektet har presenteres. Dette handler ikke bare om å gi informasjon. Når alle har forstått prosjektets betydning, skaper det gode følelser og en opplevelse av å bidra til noe større enn seg selv.
@@ -62,15 +66,13 @@ Mot slutten av møtet bør teamet sammen diskutere hvordan de ønsker å arbeide
 
 ---
 
-## Del 3 – Rammer for relasjonelle kontrakter
-**Ansvarlige:** Humam  
+## Del 3 – Rammer for relasjonelle kontrakter 
 
 *(Her skal Humam skrive sin del.)*  
 
 ---
 
 ## Del 4 – Proaktive mekanismer for konflikthåndtering
-**Ansvarlige:** Sondre 
 
 Konflikter dukker nesten alltid opp i prosjektarbeid. Ofte skjer det tidlig, nettopp før mål, roller og arbeidsmåter er tydelig fastsatt. Når en leder et stort og sammensatt team med administrasjon, politiske representanter, fagspesialister og innbyggere, er det ekstra viktig med tidlige og tydelige. Ved god planlegging minsker man følelsen av uklarhet innenfor prosjektet, men det fjerner det ikke helt. Derfor er det viktig å legge til rette for å finne og diskutere ulike konflikter før de vokser seg store allerede i oppstartfasen. (Jacobsen, 2016, s. 53–55). 
 
@@ -87,7 +89,6 @@ Alt i alt peker dette mot tre ordninger og prosedyrer i oppstarten. En teamkontr
 ---
 
 ## Del 5 – Håndtering av tidspress og planleggingsfellen
-**Ansvarlig:** Christian  
 
 (Det er viktig å ikke la seg låse altfor tidlig. En vanlig planleggings felle er å føle stress for tid og hvor man skal starte. Oppstarten er de fleste faktorer uklare, så det er viktig å ikke bli låst. Gå gjennom ting nøye og  punkt for punkt, ikke alt må bli gjort samtidig. En form av planlegging man kan bruke er iterativ planlegging. Det vil si en grov plan med milepæler og så kan man heller skrive mer når informasjon blir mer tilgengelig. For å ikke føle på tidspresset så kan man sette av tid til å stille de riktige spørsmåla som «Hva prøver vi å oppnå» og «Hvem er de viktigste interessentene». 
 For å spare mer tid kan man bruke verktøy som premortem-analyse eller SWOT (Styrker, svakheter, muligheter og trussler). Disse kan hjelpe med å identifisere risikoer og muligheter før man gjør handlinger. En premortem-analyse kan hjelpe med å først se på feila man har gjort eller kan gjøre også se bakover for å hjelpe med å se framover. Ved å først feile så kan man å overkomme feil man kunne gjort hvis man var for selvsikker på oppgaven. SWOT er en mer oversiktlig analyse som kan hjelpe med overblikket og vite litt hvor man kan skrive og starte. Dette gjør valg, nye planer, diversifikasjon og forbedring lettere. 
@@ -98,8 +99,7 @@ Her skal Christian skrive sin del.)
 
 ---
 
-## Del 6 – Sikring av god kommunikasjon
-**Ansvarlig:** Sohib  
+## Del 6 – Sikring av god kommunikasjon 
 
 Sikring av god kommunikasjon er en av de viktigste faktorene for at et team skal fungere på en best mulig måte. Når man samler mennesker med ulik bakgrunn og erfaring, er det lett å misforstå hverandre eller snakke forbi hverandre. Derfor er det viktig med en prosjektleder som er tydelig på hvordan kommunikasjonen i teamet skal foregå helt fra starten av. Det første en prosjektleder bør gjøre er å bestemme hvordan kommunikasjonen skal utføres. Det kan være via e-post, Teams eller via jevnlige møter til diskusjoner. Naturligvis er det slik at når alle vet hvor de skal finne informasjon, sparer man tid og unngår forvirring. 
 Å ha faste møtetider, for eksempel et ukentlig statusmøte er essensielt for å ha god kommunikasjon. På disse møtene kan man oppdatere hverandre om utfordringer, fremdrift og hva som kommer til å være det neste steget. Slike faste rutiner gjør at teamet føler seg oppdatert og inkludert. Alt dette er med på å bygge trygghet. En god kommunikasjonskultur handler ikke kun om bare verktøy, men også om hvordan man kommuniserer. En prosjektleder bør oppmuntre til åpenhet, slik at alle stiller spørsmål og sier ifra om problemer. Når du har et trygt team er det større sjanse for at de deler viktige ideer og innspill. 
