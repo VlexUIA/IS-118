@@ -91,7 +91,7 @@ Alt i alt peker dette mot tre ordninger og prosedyrer i oppstarten. En teamkontr
 
 ## Del 5 – Håndtering av tidspress og planleggingsfellen
 
-(Det er viktig å ikke la seg låse altfor tidlig. En vanlig planleggings felle er å føle stress for tid og hvor man skal starte.<br /> Oppstarten er de fleste faktorer uklare, så det er viktig å ikke bli låst. Gå gjennom ting nøye og  punkt for punkt, ikke alt må bli gjort samtidig. En form av planlegging man kan bruke er iterativ planlegging. <br />
+(Det er viktig å ikke la seg låse altfor tidlig. En vanlig planleggings felle er å føle stress for tid og hvor man skal starte.<br /> Oppstarten er de fleste faktorer uklare, så det er viktig å ikke bli låst. Gå gjennom ting nøye og  punkt for punkt, ikke alt må bli gjort samtidig. En form av planlegging man kan bruke er iterativ planlegging. <br /> <br />
 Det vil si en grov plan med milepæler og så kan man heller skrive mer når informasjon blir mer tilgengelig. For å ikke føle på tidspresset så kan man sette av tid til å stille de riktige spørsmåla som «Hva prøver vi å oppnå» og «Hvem er de viktigste interessentene». <br />
 For å spare mer tid kan man bruke verktøy som premortem-analyse eller SWOT (Styrker, svakheter, muligheter og trussler). Disse kan hjelpe med å identifisere risikoer og muligheter før man gjør handlinger. En premortem-analyse kan hjelpe med å først se på feila man har gjort eller kan gjøre også se bakover for å hjelpe med å se framover. <br />
 Ved å først feile så kan man å overkomme feil man kunne gjort hvis man var for selvsikker på oppgaven. <br />SWOT er en mer oversiktlig analyse som kan hjelpe med overblikket og vite litt hvor man kan skrive og starte. Dette gjør valg, nye planer, diversifikasjon og forbedring lettere. <br />
