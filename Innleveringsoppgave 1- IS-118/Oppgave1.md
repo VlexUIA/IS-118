@@ -26,31 +26,31 @@ prosjektets oppstartsmøte. Dette skal fremme felles forståelse av mål og
 arbeidsfordeling, og inkludere viktigheten av "pseudoarbeid" for relasjonsbygging.
 
 
-**Velkommen og Introduksjon**
+**Velkommen og Introduksjon** |
 Ved å begynne agenda’en med en introduksjon skaper det trygghet.
 
-**Presentasjonsrunde av alle sammen**
+**Presentasjonsrunde av alle sammen** |
 Alle medarbeidere blir mer kjent med hverandre, det kommer til å gjøre folk mer trygge, mer kjent med hverandre og kommer til å få folk til å ikke være så stresset men også 
 få folk til å “senke skuldrene”. 
 
-**Prosjektmål, hva alle forventer, kriterier og felles forståelse**
+**Prosjektmål, hva alle forventer, kriterier og felles forståelse** |
 Alle medarbeidere vil skjønne hvilke forventninger sjefene har til di, hva som må gjøres
 og hvordan det skal gjøres.
 
-**Roller og forventninger fra individuelle arbeidere**
+**Roller og forventninger fra individuelle arbeidere** |
 Her vil alle finne ut hvem gjør hva, forklare hvilke forventninger sjefene har til di, hva di 
 trenger fra hverandre.
 
-**Visjoner/mål, hvordan alt kommer til å se ut om 1 år og hva sjefen forventer.**
+**Visjoner/mål, hvordan alt kommer til å se ut om 1 år og hva sjefen forventer.** |
 Forklarer forventinger, hvordan de vil at at det skal se ut om X tid, forklare hvilke planer
 di har. 
 
 **Workshop: Ha en morsom oppgave med hverandre sånn at medarbeidere kan bli kjent 
-med hverandre.**
+med hverandre.** |
 Medarbeidere blir kjent med hverandre, snakker sammen og ser hvordan alle jobber i
 gruppe. 
 
-**Snakke om neste steg, planlegge neste møte, planlegge når de skal begynne å jobbe.**
+**Snakke om neste steg, planlegge neste møte, planlegge når de skal begynne å jobbe.** |
 Avtale neste møte hvor de snakker videre.
 
 Det første møte i prosjektet er det viktig å ha en tydelig agenda og tenke gjennom grunnlaget for et godt prosjekt samarbeid. Møte måter man og fordeler oppgaver og introduksjon fra prosjektleder. 
