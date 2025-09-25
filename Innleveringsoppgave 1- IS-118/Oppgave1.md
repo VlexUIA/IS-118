@@ -118,5 +118,12 @@ Det å være åpen og ha respekt gjør at flere tør å si ifra og bidra med hva
 
 ---
 
-## Referanser
-*(Alle samler referanser her til slutt, i APA7-format. Bruk [kildekompasset.no](https://kildekompasset.no) som mal.)*
+# Referanser
+
+- Hesselberg, J.-O. (2023, 20. oktober). *Pre mortem: Slik skal det gjøres*. Jan-Ole Hesselberg. https://www.janolehesselberg.no/blogg/pre-mortem-slik-skal-det-gjores
+
+- Vikøren, B. M. (2025, 15. mai). *SWOT-analyse*. I *Store norske leksikon*. https://snl.no/SWOT-analyse
+
+- Jacobsen, D. I. (2016). *Engangsorganisasjonen: Organisering og ledelse av prosjekter* (1. utg.). Fagbokforlaget.
+
+- Gjøsund, P., & Huseby, R. (2023). *To eller flere: Basiskunnskaper i gruppepsykologi* (4. utg.). Cappelen Damm Akademisk.
