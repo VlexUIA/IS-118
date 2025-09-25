@@ -53,16 +53,12 @@ gruppe.
 **Snakke om neste steg, planlegge neste møte, planlegge når de skal begynne å jobbe.** |
 Avtale neste møte hvor de snakker videre.
 
-Det første møte i prosjektet er det viktig å ha en tydelig agenda og tenke gjennom grunnlaget for et godt prosjekt samarbeid. Møte måter man og fordeler oppgaver og introduksjon fra prosjektleder. 
-
 Møtet bør innledes med en tydelig velkomst fra prosjektlederen, der visjon, mål og tiden prosjektet har presenteres. Dette handler ikke bare om å gi informasjon. Når alle har forstått prosjektets betydning, skaper det gode følelser og en opplevelse av å bidra til noe større enn seg selv.
 
 Etter introduksjonen er det viktig at medlemmene i prosjektet blir mer komfortable med hverandre. Dette kan gjøres ved små prat, introduksjoner eller ligningen. Medlemmene kan få mye ut av og også vite bakgrunnen og kompetansesettet til de ulike prosjektmedlemmene. Det kan også bli gjort lekere som navnelek eller snakk om ting uten som prosjektet. Disse øvelsene blir ofte kalt for pseudoarbeid. Her er det også ha en forståelse for hva prosjektets mål og gruppens forventninger er. Medlemmene må også bestemme rollene til medlemmene i gruppen. 
 
-En like viktig del av oppstarten er avklaring av roller og ansvar. Her bør prosjektlederen presentere de fire grunnleggende prosjektrollene produksjon, administrasjon, integrasjon og entreprenørskap og la deltakerne selv plassere sine bidrag inn i denne rammen. Dette gir tydelighet rundt ansvar og myndighet, samtidig som det blir synlig hvordan de ulike kompetansene utfyller hverandre.
-
-Mot slutten av møtet bør teamet sammen diskutere hvordan de ønsker å arbeide. Det kan handle om valg av kommunikasjonskanaler, hyppighet på møter og hvordan man sikrer at alle stemmer blir hørt. Enighet om noen enkle spilleregler skaper forutsigbarhet og gjør det lettere å håndtere uenigheter senere. Møtet kan avsluttes med en kort oppsummering og en såkalt “commitment-runde”, hvor hver deltaker sier én ting de forplikter seg til å bidra med fremover.
-
+En like viktig del av oppstarten er avklaring av roller og ansvar. Her bør prosjektlederen presentere de fire grunnleggende prosjektrollene produksjon, administrasjon, integrasjon og entreprenørskap og la deltakerne selv plassere sine bidrag inn i denne rammen. <br />
+Mot slutten av møtet bør teamet sammen diskutere hvordan de ønsker å arbeide og hvordan alt skal se ut.
 
 ---
 
