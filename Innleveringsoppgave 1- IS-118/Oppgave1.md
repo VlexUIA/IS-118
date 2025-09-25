@@ -68,7 +68,29 @@ Mot slutten av møtet bør teamet sammen diskutere hvordan de ønsker å arbeide
 
 ## Del 3 – Rammer for relasjonelle kontrakter 
 
-*(Her skal Humam skrive sin del.)*  
+Relasjonelle forhold er en viktig faktor for suksess til et prosjekt. For eksempel hvordan samarbeidet mellom prosjekter skal foregår, hvordan og hva slags informasjon som skal deles, hvordan uenigheter skal tas opp, og møtepunkter. Dette vil vektlegge relasjoner og produksjon. Dette variere fra hvilket prosjekt det er snakk om. <br />
+Prosjekter som tar hensyn til sosiale relasjoner mellom deltakerne, opplever mindre konflikter, utsettelser og kostnadsoverskridelser. Likevel kan deltakere som kjenner hverandre godt og dermed skal ha dannet gode sosiale relasjoner, vil det oppstå uenighet og konflikter. Poenget med relasjonelle kontrakter er at de sier noe om hvordan styring og kontroll skal organiseres, hvordan deltakere skal forholde seg til hverandre, hvordan konflikter skal håndteres. Dette gjøre at prosjektet har mer fokus på de relasjonelle rammene enn de tekniske, produksjonsmessige forhold.<br />
+Planlegging av prosess er en viktig prosess der man forsøker å se i fremtiden og si noe om hva man kan forvente av hverandre i løpet av prosjektet. Vi kan fremstille planleggings prosessen som følge: 
+-	Gitt mandatet for prosjektet blir oppgaven definert, mindre risiko, og det estimeres ut fra dette hva som trengs av ressurser, ferdighet og tid for ø løse oppgaven. <br />
+-	Det lages en oversikt over hvem som har ansvar for hva de ulike tidspunkt, hvem som skal være kontaktperson, hvem har myndighet til å avgjøre ulike spørsmål. Med dette inngår det avtaler og kontrakter mellom partene om hva det forventes å bidra med, når, samt hva slags erstatning partene skal få for dette. <br />
+-	Det settes sammen en gruppe utefra ressurser og ferdigheten som trengs for å løse denne oppgaven på en god måte. <br />
+-	Det lages en plan over aktiviteter i prosjektet der oppgaver fordeles på partene, og der ansvar og oppgaver av prosjektet beskrives. <br />
+Struktur og planlegging er en viktig del av prosjektet og forskning viser at tid som blir brukt på det gir stort utbytte i prosjektet. <br />
+Planlegging og samhandling tidlig i prosjektet er viktig, men det er uønsket på grunn av tidsklemme. Prosjektledere skulle ha brukt mer tid på feller verdier i gruppen, men mangler ressurser. Tidspress tilfører at prosjektlederen fokuserer mest på fremtiden og leveransen, dette gjør at nåtiden og fortiden blir mindre viktig. Det skaper følelse en av å ha dårlig tid . <br />
+Når et prosjekt har klare tidsfrister og mål, så skapes det en aksjon. I mange lærebøker for målsetting brukes akronymet SMARTe mål: <br />
+-	Spesifikke – tydelig og forstått av alle <br />
+-	Målbare - lett å se om de er nådd<br />
+-	Aksepterte – alle sentrale aktører er enige om målene <br />
+-	Realistiske – alle er mulig å nå med de ressursene prosjektet har<br />
+-	Tidsbegrensende – har en klar tidsramme <br />
+Mål som dette gir motivasjon og en rask oppstart, men kan føre til at man hopper inn til handling uten noen analyse. Tidspress kan gjøre at første fase er ikke så aktuell eller viktig, selv om den er viktig for å samarbeide og planlegge. <br />
+Tidsfrister, målsetting og ressurser som alle prosjekter må ha, skaper også tidspress hos partene. Tidsfrister oppleves som om det haster, og at man må skynde seg, at noe må gjøre raskt. Dette kalles planleggingsfellen der man undervurderer tid, kostnader, ressurser som trengs for å gjennomføre et prosjekt. Det er først etter hvert som prosjektet skrider, at man ser om målet var fornuftig, om tidsrammen var fornuftig, eller om alle egentlig var enig om opprinnelige målet. <br />
+Planleggere reduserer risiko ofte fordi de vil at prosjektet skal lykkes. Dette gjør at man ser mer positivt på ting enn det egentlig er. Usikkerhet betyr at ting kan skje, og spesielt i lange og kompliserte tekster. Men en åpen plan kan skape kaos. Derfor må en god plan balansere mellom de, den bør være tydelig og fleksibel. <br />
+En sentral del i prosjekt er handler om hvordan beslutningstakere skal få tilgang til viktig informasjon, spesielt om mulig avvik fra planen, som har store konsekvenser for ferdighetstillingen av prosjektet. Dette dreier seg om det overordnede styringssystemet for prosjektet. Det andre elementet er prosjektets evne til å iverksette tiltak for å endre de avvik som man har avdekket. Et viktig spørsmål er hvordan ansvar for og myndighet til å iverksette korrigerende tiltak er organisert. Vi kan skille mellom to former for organisering. <br />
+- Desentralisert prosjekt: beslutninger må tas av de som jobber minst i prosjektet. <br />
+- Sentralisert prosjekt: alle beslutninger godkjennes av prosjekt leder eller overordnet myndighet. <br />
+Selv om god planlegging er der kan konflikter oppstå, og uenighet er vanlig. Derfor må man bestemme tidelig hvordan konflikter skal håndteres. en slik ordning, også kalt konfliktløsningsmekanismer, er viktig mellom arbeidsgiver og utfører og reguleres av kontrakt. Brudd på kontrakten kan ha store konsekvenser og kan ende opp i rettsak, noe som gir store kostnader. Derfor er det viktig med konflikt håndtering allerede fra starten. 
+I konklusjon kan vi si at tidligfase er viktig for å samarbeide og koordinering. Det er ofte mye fokus på oppgaver og lite på relasjoner. I tillegg skaper lite tid og ressurser uklare forventinger, samt bortkastet tid. Endelig kan vi si at en god tidligfase øker sjansen til prosjektets suksess. (Jacobsen, 2016) 
 
 ---
 
