@@ -145,3 +145,11 @@ Det å være åpen og ha respekt gjør at flere tør å si ifra og bidra med hva
 - Jacobsen, D. I. (2016). *Engangsorganisasjonen: Organisering og ledelse av prosjekter* (1. utg.). Fagbokforlaget.
 
 - Gjøsund, P., & Huseby, R. (2023). *To eller flere: Basiskunnskaper i gruppepsykologi* (4. utg.). Cappelen Damm Akademisk.
+
+- Microsoft. (2024, 29. mars). How to run an effective project kickoff meeting. Microsoft 365 Life Hacks. https://www.microsoft.com/en-us/microsoft-365-life-hacks/organization/how-to-run-a-project-kickoff-meeting
+
+- Atlassian. (u.å.). Project kickoff. Atlassian Team Playbook. Hentet 14. oktober 2025 fra https://www.atlassian.com/team-playbook/plays/project-kickoff
+
+- Wilemon, D. L., & Thamhain, H. J. (1983). Team building in project management. Project Management Quarterly, 14(2), 73–81. https://www.pmi.org/learning/library/team-building-development-project-management-5707
+
+- Henkin, S. (2006). The behavioral side of project team effectiveness. Paper presentert på PMI Global Congress 2006—North America, Seattle, WA. Project Management Institute. https://www.pmi.org/learning/library/behavioral-side-project-team-effectiveness-8109
