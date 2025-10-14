@@ -27,7 +27,7 @@ I grupper der det er en mangel på balanse i form av teamroller regnes det med a
 ## Del 2 – Design av det første møtet
 
 **Velkommen og Introduksjon** |
-Ved å begynne agenda’en med en introduksjon skaper det trygghet.
+Ved å begynne agenda’en med en introduksjon skaper det trygghet. (Microsoft, n.d.)
 
 **Presentasjonsrunde av alle sammen** |
 Alle medarbeidere blir mer kjent med hverandre, det kommer til å gjøre folk mer trygge, mer kjent med hverandre og kommer til å få folk til å ikke være så stresset men også 
@@ -39,7 +39,7 @@ og hvordan det skal gjøres.
 
 **Roller og forventninger fra individuelle arbeidere** |
 Her vil alle finne ut hvem gjør hva, forklare hvilke forventninger sjefene har til di, hva di 
-trenger fra hverandre.
+trenger fra hverandre. (PMI, 2010).
 
 **Visjoner/mål, hvordan alt kommer til å se ut om 1 år og hva sjefen forventer.** |
 Forklarer forventinger, hvordan de vil at at det skal se ut om X tid, forklare hvilke planer
@@ -53,11 +53,11 @@ gruppe.
 **Snakke om neste steg, planlegge neste møte, planlegge når de skal begynne å jobbe.** |
 Avtale neste møte hvor de snakker videre.
 
-Møtet bør innledes med en tydelig velkomst fra prosjektlederen, der visjon, mål og tiden prosjektet har presenteres. Dette handler ikke bare om å gi informasjon. Når alle har forstått prosjektets betydning, skaper det gode følelser og en opplevelse av å bidra til noe større enn seg selv.
+Møtet bør innledes med en tydelig velkomst fra prosjektlederen, der visjon, mål og tiden prosjektet har presenteres. Dette handler ikke bare om å gi informasjon. Når alle har forstått prosjektets betydning, skaper det gode følelser og en opplevelse av å bidra til noe større enn seg selv. (Microsoft, n.d.; Atlassian, n.d.).
 
 Etter introduksjonen er det viktig at medlemmene i prosjektet blir mer komfortable med hverandre. Dette kan gjøres ved små prat, introduksjoner eller ligningen. Medlemmene kan få mye ut av og også vite bakgrunnen og kompetansesettet til de ulike prosjektmedlemmene. Det kan også bli gjort lekere som navnelek eller snakk om ting uten som prosjektet. Disse øvelsene blir ofte kalt for pseudoarbeid. Her er det også ha en forståelse for hva prosjektets mål og gruppens forventninger er. Medlemmene må også bestemme rollene til medlemmene i gruppen. 
 
-En like viktig del av oppstarten er avklaring av roller og ansvar. Her bør prosjektlederen presentere de fire grunnleggende prosjektrollene produksjon, administrasjon, integrasjon og entreprenørskap og la deltakerne selv plassere sine bidrag inn i denne rammen. <br />
+En like viktig del av oppstarten er avklaring av roller og ansvar. Her bør prosjektlederen presentere de fire grunnleggende prosjektrollene produksjon, administrasjon, integrasjon og entreprenørskap og la deltakerne selv plassere sine bidrag inn i denne rammen.(PMI, 2010). <br />
 Mot slutten av møtet bør teamet sammen diskutere hvordan de ønsker å arbeide og hvordan alt skal se ut.
 
 ---
