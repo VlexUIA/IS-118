@@ -27,7 +27,7 @@ I grupper der det er en mangel på balanse i form av teamroller regnes det med a
 ## Del 2 – Design av det første møtet
 
 **Velkommen og Introduksjon** |
-Ved å begynne agenda’en med en introduksjon skaper det trygghet. (Microsoft, n.d.)
+Ved å begynne agenda’en med en introduksjon skaper det trygghet. (Microsoft, 2024)
 
 **Presentasjonsrunde av alle sammen** |
 Alle medarbeidere blir mer kjent med hverandre, det kommer til å gjøre folk mer trygge, mer kjent med hverandre og kommer til å få folk til å ikke være så stresset men også 
@@ -53,7 +53,7 @@ gruppe.
 **Snakke om neste steg, planlegge neste møte, planlegge når de skal begynne å jobbe.** |
 Avtale neste møte hvor de snakker videre.
 
-Møtet bør innledes med en tydelig velkomst fra prosjektlederen, der visjon, mål og tiden prosjektet har presenteres. Dette handler ikke bare om å gi informasjon. Når alle har forstått prosjektets betydning, skaper det gode følelser og en opplevelse av å bidra til noe større enn seg selv. (Microsoft, n.d.; Atlassian, n.d.).
+Møtet bør innledes med en tydelig velkomst fra prosjektlederen, der visjon, mål og tiden prosjektet har presenteres. Dette handler ikke bare om å gi informasjon. Når alle har forstått prosjektets betydning, skaper det gode følelser og en opplevelse av å bidra til noe større enn seg selv. (Microsoft, 2024; Atlassian, 2025).
 
 Etter introduksjonen er det viktig at medlemmene i prosjektet blir mer komfortable med hverandre. Dette kan gjøres ved små prat, introduksjoner eller ligningen. Medlemmene kan få mye ut av og også vite bakgrunnen og kompetansesettet til de ulike prosjektmedlemmene. Det kan også bli gjort lekere som navnelek eller snakk om ting uten som prosjektet. Disse øvelsene blir ofte kalt for pseudoarbeid. Her er det også ha en forståelse for hva prosjektets mål og gruppens forventninger er. Medlemmene må også bestemme rollene til medlemmene i gruppen. 
 
@@ -108,15 +108,15 @@ Alt i alt peker dette mot tre ordninger og prosedyrer i oppstarten. En teamkontr
 
 ## Del 5 – Håndtering av tidspress og planleggingsfellen
 
-(Det er viktig å ikke la seg låse altfor tidlig. En vanlig planleggings felle er å føle stress for tid og hvor man skal starte.<br /> Oppstarten er de fleste faktorer uklare, så det er viktig å ikke bli låst. Gå gjennom ting nøye og  punkt for punkt, ikke alt må bli gjort samtidig. En form av planlegging man kan bruke er iterativ planlegging. <br /> <br />
+Det er viktig å ikke la seg låse altfor tidlig. En vanlig planleggings felle er å føle stress for tid og hvor man skal starte.<br /> Oppstarten er de fleste faktorer uklare, så det er viktig å ikke bli låst. Gå gjennom ting nøye og  punkt for punkt, ikke alt må bli gjort samtidig. En form av planlegging man kan bruke er iterativ planlegging. <br /> <br />
 Det vil si en grov plan med milepæler og så kan man heller skrive mer når informasjon blir mer tilgengelig. For å ikke føle på tidspresset så kan man sette av tid til å stille de riktige spørsmåla som «Hva prøver vi å oppnå» og «Hvem er de viktigste interessentene». <br />
-For å spare mer tid kan man bruke verktøy som premortem-analyse eller SWOT (Styrker, svakheter, muligheter og trussler). Disse kan hjelpe med å identifisere risikoer og muligheter før man gjør handlinger. En premortem-analyse kan hjelpe med å først se på feila man har gjort eller kan gjøre også se bakover for å hjelpe med å se framover. <br /> <br />
+For å spare mer tid kan man bruke verktøy som premortem-analyse eller SWOT (Styrker, svakheter, muligheter og trussler). Disse kan hjelpe med å identifisere risikoer og muligheter før man gjør handlinger. En premortem-analyse kan hjelpe med å først se på feila man har gjort eller kan gjøre også se bakover for å hjelpe med å se framover.(Hesselberg, 2023).(Vikøren, 2025) <br /> <br />
 Ved å først feile så kan man å overkomme feil man kunne gjort hvis man var for selvsikker på oppgaven. <br />SWOT er en mer oversiktlig analyse som kan hjelpe med overblikket og vite litt hvor man kan skrive og starte. Dette gjør valg, nye planer, diversifikasjon og forbedring lettere. <br /> <br />
 Gantt-diagrammer og milepælsplaner er nyttige, men kombiner dem med kanban-tavler eller veikart som tillater endringer. Disse gjør oppgaven mer oversiktlig og kan hjelpe med å prioritere oppgaven, basert på usikkerheten og verdien. Deretter kan man evaluere prosjeket i forskjellige faser. Innføringer av beslutnings porter der man evaluerer fremdrift og justerer kursen er å fint for hvilke direksjoner og fleksibiliteten. <br />
-Det er viktig å kommunisere planens midlertidighet.<br /> Planer endrer seg underveis, samt som prosjektet utvikler seg så kommer det nye utfordringer eller endringer.  <br /><br />
+Det er viktig å kommunisere planens midlertidighet.<br /> Planer endrer seg underveis, samt som prosjektet utvikler seg så kommer det nye utfordringer eller endringer.   <br /><br />
 En statisk plan kan gi følelsen av at man sitter fast og ikke kan fortsette, mens en levende plan gir mer rom for justeringer underveis uten at det nødvendigvis føles ut som nederlag. Når et lag ved de kan gjøre feil så kommer det oftere innspill på forbedringer, noe som går tilbake til på at prosjektet kan gå i en helt annerledes direksjon enn hva man først satt ut for. <br /><br />
 For å konkludere så kan man bruke tidspresset som en kreativ drivkraft i stedet for en stressfaktor. <br />
-Kortere tidsfrister kan fremme fokus og besluttsomhet, men bare hvis de er realistiske. Viktigste er å skape forståelse så man ikke er altfor selvsikker eller at man har falskt hastverk.
+Kortere tidsfrister kan fremme fokus og besluttsomhet, men bare hvis de er realistiske. Viktigste er å skape forståelse så man ikke er altfor selvsikker eller at man har falskt hastverk. (Copilot, 2025)
 
 ---
 
@@ -138,7 +138,15 @@ Det å være åpen og ha respekt gjør at flere tør å si ifra og bidra med hva
 
 # Referanser
 
-- Hesselberg, J.-O. (2023, 20. oktober). *Pre mortem: Slik skal det gjøres*. Jan-Ole Hesselberg. https://www.janolehesselberg.no/blogg/pre-mortem-slik-skal-det-gjores
+- Hesselberg, J.-O. (2023, 21. oktober). *Pre mortem: Slik skal det gjøres*. Jan-Ole Hesselberg. https://www.janolehesselberg.no/blogg/pre-mortem-slik-skal-det-gjores
+  
+- https://www.microsoft.com/en-us/microsoft-365-life-hacks/organization/how-to-run-a-project-kickoff-meeting
+  
+- https://www.atlassian.com/team-playbook/plays/project-kickoff
+  
+- https://www.pmi.org/learning/library/team-building-development-project-management-5707
+
+- https://www.pmi.org/learning/library/behavioral-side-project-team-effectiveness-8109
 
 - Vikøren, B. M. (2025, 15. mai). *SWOT-analyse*. I *Store norske leksikon*. https://snl.no/SWOT-analyse
 
@@ -148,8 +156,11 @@ Det å være åpen og ha respekt gjør at flere tør å si ifra og bidra med hva
 
 - Microsoft. (2024, 29. mars). How to run an effective project kickoff meeting. Microsoft 365 Life Hacks. https://www.microsoft.com/en-us/microsoft-365-life-hacks/organization/how-to-run-a-project-kickoff-meeting
 
-- Atlassian. (u.å.). Project kickoff. Atlassian Team Playbook. Hentet 14. oktober 2025 fra https://www.atlassian.com/team-playbook/plays/project-kickoff
+- Atlassian. (). Project kickoff. Atlassian Team Playbook. Hentet 14. oktober 2025 fra https://www.atlassian.com/team-playbook/plays/project-kickoff
 
 - Wilemon, D. L., & Thamhain, H. J. (1983). Team building in project management. Project Management Quarterly, 14(2), 73–81. https://www.pmi.org/learning/library/team-building-development-project-management-5707
 
 - Henkin, S. (2006). The behavioral side of project team effectiveness. Paper presentert på PMI Global Congress 2006—North America, Seattle, WA. Project Management Institute. https://www.pmi.org/learning/library/behavioral-side-project-team-effectiveness-8109
+- Copilot., 2025 Prosjektledelse under tidspress [Stor Språkmodell] https://copilot.microsoft.com/
+
+- Jeg har brukt Copilot i litteratursøk til oppgaven. Copilot har generert relevante søkestrenger og gitt relevant info som jeg har brukt som grunnlag for teksten. 
