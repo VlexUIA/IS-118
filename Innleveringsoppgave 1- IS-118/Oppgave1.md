@@ -145,9 +145,9 @@ Det å være åpen og ha respekt gjør at flere tør å si ifra og bidra med hva
 - https://www.atlassian.com/team-playbook/plays/project-kickoff
   
 - https://www.pmi.org/learning/library/team-building-development-project-management-5707
-- 
+
 - https://www.pmi.org/learning/library/behavioral-side-project-team-effectiveness-8109
-- 
+
 - Vikøren, B. M. (2025, 15. mai). *SWOT-analyse*. I *Store norske leksikon*. https://snl.no/SWOT-analyse
 
 - Jacobsen, D. I. (2016). *Engangsorganisasjonen: Organisering og ledelse av prosjekter* (1. utg.). Fagbokforlaget.
