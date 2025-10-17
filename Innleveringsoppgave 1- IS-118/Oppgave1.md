@@ -27,7 +27,7 @@ I grupper der det er en mangel på balanse i form av teamroller regnes det med a
 ## Del 2 – Design av det første møtet
 
 **Velkommen og Introduksjon** |
-Ved å begynne agenda’en med en introduksjon skaper det trygghet. (Microsoft, n.d.)
+Ved å begynne agenda’en med en introduksjon skaper det trygghet. (Microsoft, 2024)
 
 **Presentasjonsrunde av alle sammen** |
 Alle medarbeidere blir mer kjent med hverandre, det kommer til å gjøre folk mer trygge, mer kjent med hverandre og kommer til å få folk til å ikke være så stresset men også 
@@ -53,7 +53,7 @@ gruppe.
 **Snakke om neste steg, planlegge neste møte, planlegge når de skal begynne å jobbe.** |
 Avtale neste møte hvor de snakker videre.
 
-Møtet bør innledes med en tydelig velkomst fra prosjektlederen, der visjon, mål og tiden prosjektet har presenteres. Dette handler ikke bare om å gi informasjon. Når alle har forstått prosjektets betydning, skaper det gode følelser og en opplevelse av å bidra til noe større enn seg selv. (Microsoft, n.d.; Atlassian, n.d.).
+Møtet bør innledes med en tydelig velkomst fra prosjektlederen, der visjon, mål og tiden prosjektet har presenteres. Dette handler ikke bare om å gi informasjon. Når alle har forstått prosjektets betydning, skaper det gode følelser og en opplevelse av å bidra til noe større enn seg selv. (Microsoft, 2024; Atlassian, 2025).
 
 Etter introduksjonen er det viktig at medlemmene i prosjektet blir mer komfortable med hverandre. Dette kan gjøres ved små prat, introduksjoner eller ligningen. Medlemmene kan få mye ut av og også vite bakgrunnen og kompetansesettet til de ulike prosjektmedlemmene. Det kan også bli gjort lekere som navnelek eller snakk om ting uten som prosjektet. Disse øvelsene blir ofte kalt for pseudoarbeid. Her er det også ha en forståelse for hva prosjektets mål og gruppens forventninger er. Medlemmene må også bestemme rollene til medlemmene i gruppen. 
 
@@ -139,7 +139,15 @@ Det å være åpen og ha respekt gjør at flere tør å si ifra og bidra med hva
 # Referanser
 
 - Hesselberg, J.-O. (2023, 21. oktober). *Pre mortem: Slik skal det gjøres*. Jan-Ole Hesselberg. https://www.janolehesselberg.no/blogg/pre-mortem-slik-skal-det-gjores
-
+  
+- https://www.microsoft.com/en-us/microsoft-365-life-hacks/organization/how-to-run-a-project-kickoff-meeting
+  
+- https://www.atlassian.com/team-playbook/plays/project-kickoff
+  
+- https://www.pmi.org/learning/library/team-building-development-project-management-5707
+- 
+- https://www.pmi.org/learning/library/behavioral-side-project-team-effectiveness-8109
+- 
 - Vikøren, B. M. (2025, 15. mai). *SWOT-analyse*. I *Store norske leksikon*. https://snl.no/SWOT-analyse
 
 - Jacobsen, D. I. (2016). *Engangsorganisasjonen: Organisering og ledelse av prosjekter* (1. utg.). Fagbokforlaget.
